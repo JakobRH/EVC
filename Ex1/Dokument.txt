@@ -1,0 +1,5 @@
+1. Foto wie gewünscht mit sichtbarer Matrikelnummer gemacht.
+2. Mit GIMP wie folgt bearbeitet:
+Mit dem Smudge-Tool von links nach rechts in Linien "verschmiert". Wichtige Stellen wurden nicht verschmiert!
+Smudge-Tool: Wenn die Flow-Einstellung auf 0.00(default) eingestellt ist, so wie ich es verwendet hab, wird die Farbe der momentanen Position des Brushes mit den darauffolgenden vermischt.
+3. Beide Bilder + kurze Beschreibung in gewünschter Form hochgeladen.
